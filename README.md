@@ -12,6 +12,15 @@
    ## what's fixed??
    - fixed lid issues
    - cleaned all errors and reducing bot storage weight for panel users
+   
+
+## 📦 Deploy Now
+
+| Platform | Deploy |
+|---------|--------|
+| 🟣 Heroku | [![Deploy to Heroku](https://img.shields.io/badge/DEPLOY-HEROKU-purple?style=for-the-badge&logo=heroku)](https://dashboard.heroku.com/new?template=https://github.com/trouble254/shadow-XMD-pair) |
+| 🔵 Render | [![Deploy to Render](https://img.shields.io/badge/DEPLOY-RENDER-blue?style=for-the-badge&logo=render)](https://dashboard.render.com/) |
+| ⚫ Koyeb | [![Deploy to Koyeb](https://img.shields.io/badge/DEPLOY-KOYEB-black?style=for-the-badge&logo=koyeb)](https://app.koyeb.com/) |
  
 ### 95% of this bot plugins are highly maintained by  †💖R🍥Ö💦Ú🔱ß🍷L🥺È apis
  [explore apis †💖R🍥Ö💦Ú🔱ß🍷L🥺È](https://apiskeith.vercel.app/)
