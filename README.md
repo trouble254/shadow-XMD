@@ -20,7 +20,7 @@
     <img title="GET SESSION OPT 1" src="https://img.shields.io/badge/🔑_GET_†💖R🍥Ö💦Ú🔱ß🍷L🥺È-XMD_SESSION-000000?style=for-the-badge&logo=shadow&logoColor=white&color=skyblue" width="260" height="50"/>
   </a>
   <a href="https://github.com/trouble254/shadow-XMD.online/Deploy" target="_blank" rel="noopener noreferrer">
-    <img title="DEPLOY †💖R🍥Ö💦Ú🔱ß🍷L🥺È BOT" src="https://img.shields.io/badge/🚀_DEPLOY_ON_HEROKU-000000?style=for-the-badge&logo=heroku&logoColor=white&color=FF00FF" width="260" height="50"/>
+    <img title="DEPLOY https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fpantane779%2Fshadow-XMD" src="https://img.shields.io/badge/🚀_DEPLOY_ON_HEROKU-000000?style=for-the-badge&logo=heroku&logoColor=white&color=FF00FF" width="260" height="50"/>
   </a>
 </p>
 <p align="center">
