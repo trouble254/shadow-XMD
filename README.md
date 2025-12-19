@@ -13,12 +13,12 @@
    - fixed lid issues
    - cleaned all errors and reducing bot storage weight for panel users
  
-### 95% of this bot plugins are highly maintained by keith apis
- [explore apis keith](https://apiskeith.vercel.app/)
+### 95% of this bot plugins are highly maintained by  †💖R🍥Ö💦Ú🔱ß🍷L🥺È apis
+ [explore apis †💖R🍥Ö💦Ú🔱ß🍷L🥺È](https://apiskeith.vercel.app/)
  
 ### this site is considered as a option b everything you need on bot is in this site
-[keith site](https://trouble254.vercel.app/)
-## keith site apk 
+[†💖R🍥Ö💦Ú🔱ß🍷L🥺È site (https://trouble254.vercel.app/)
+## †💖R🍥Ö💦Ú🔱ß🍷L🥺È site apk 
 [download trouble254 apk](https://trouble254.vercel.app/legit.apk)
  
    ## 🗿
