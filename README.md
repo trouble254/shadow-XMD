@@ -14,32 +14,13 @@
    - cleaned all errors and reducing bot storage weight for panel users
    
 
-<!-- Action Buttons -->
-<p align="center">
-  <a href="https://github.com/trouble254/shadow-XMD.online/scanner" target="_blank" rel="noopener noreferrer">
-    <img title="GET SESSION OPT 1" src="https://img.shields.io/badge/🔑_GET_†💖R🍥Ö💦Ú🔱ß🍷L🥺È-XMD_SESSION-000000?style=for-the-badge&logo=shadow&logoColor=white&color=skyblue" width="260" height="50"/>
-  </a>
-  <a href="https://github.com/trouble254/shadow-XMD.online/Deploy" target="_blank" rel="noopener noreferrer">
-    <img title="DEPLOY https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fpantane779%2Fshadow-XMD" src="https://img.shields.io/badge/🚀_DEPLOY_ON_HEROKU-000000?style=for-the-badge&logo=heroku&logoColor=white&color=FF00FF" width="260" height="50"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://render.com" target="_blank" rel="noopener noreferrer">
-    <img title="DEPLOY ON RENDER" src="https://img.shields.io/badge/🚀_DEPLOY_ON_RENDER-000000?style=for-the-badge&logo=render&logoColor=white&color=61DAFB" width="260" height="50"/>
-  </a>
-  <a href="https://github.com/trouble254/shadow-XMD.online/Panel_files" target="_blank" rel="noopener noreferrer">
-    <img title="GET PANEL FILES" src="https://img.shields.io/badge/📁_GET_PANEL_FILES-000000?style=for-the-badge&logo=files&logoColor=white&color=FFA500" width="260" height="50"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://railway.app?referralCode=AqkNn4" target="_blank" rel="noopener noreferrer">
-    <img title="DEPLOY ON RAILWAY" src="https://img.shields.io/badge/🚀_DEPLOY_ON_RAILWAY-000000?style=for-the-badge&logo=railway&logoColor=white&color=purple" width="260" height="50"/>
-  </a>
-</p>
-<p align="center">
-  <b>Referral Code for Railway:</b> <code>AqkNn4</code>
-</p>
+## 📦 Deploy Now
 
+| Platform | Deploy |
+|---------|--------|
+| 🟣 Heroku | [![Deploy to Heroku](https://img.shields.io/badge/DEPLOY-HEROKU-purple?style=for-the-badge&logo=heroku)](https://dashboard.heroku.com/new?template=https://github.com/XdKing2/malvin-pair) |
+| 🔵 Render | [![Deploy to Render](https://img.shields.io/badge/DEPLOY-RENDER-blue?style=for-the-badge&logo=render)](https://dashboard.render.com/) |
+| ⚫ Koyeb | [![Deploy to Koyeb](https://img.shields.io/badge/DEPLOY-KOYEB-black?style=for-the-badge&logo=koyeb)](https://app.koyeb.com/) |
  
 ### 95% of this bot plugins are highly maintained by  †💖R🍥Ö💦Ú🔱ß🍷L🥺È apis
  [explore apis †💖R🍥Ö💦Ú🔱ß🍷L🥺È](https://apiskeith.vercel.app/)
